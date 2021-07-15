@@ -8,4 +8,4 @@
 
 **Command:** `npm i commander chalk clipboardy`
 
-Clone 
+### Demo
