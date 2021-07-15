@@ -5,5 +5,6 @@ External node modules required:
   * Commander
   * Chalk
   * Clipboardy
-`npm i commander chalk clipboardy`
+
+Command: `npm i commander chalk clipboardy`
 
