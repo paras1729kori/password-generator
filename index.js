@@ -10,7 +10,7 @@ const log = console.log
 program.version('1.0.0').description('Simple Password Generator')
 
 program
-    .option('-l, --length <number>','length of password','8')
+    .option('-l, --length <numbers>','length of password','8')
     .option('-s, --save','save passwords to passwords.txt')
     .option('-nn, --no-numbers','remove numbers')
     .option('-ns, --no-symbols','remove symbols')
